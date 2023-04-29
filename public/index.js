@@ -8,7 +8,6 @@ const MongoStore = require("connect-mongo");
 const flash = require("connect-flash");
 const passport = require("passport");
 //*Define PORT where server needs to run
-const hostname = "0.0.0.0";
 const PORT = 5000;
 
 //*Requiring configs
